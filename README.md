@@ -1,5 +1,6 @@
 **Automating the Turtle Simulation to Draw Shapes 🔺**
-Introduction to Shape Drawing: Briefly explain the importance of automation in simulations and how it can be applied to drawing shapes. 📐
+
+automating the  simulations and how it can be applied to drawing shapes. 📐
 
 **Creating a Package:**
 
